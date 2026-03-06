@@ -97,5 +97,10 @@ Un bloque de aterrizaje
 <img width="96" height="53" alt="Captura de pantalla 2026-03-06 210616" src="https://github.com/user-attachments/assets/66bf2847-591c-4fe5-a49b-986bf68106fa" />
 
 Programa completo con bucle
-<img width="525" height="408" alt="Captura de pantalla 2026-03-06 210727" src="https://github.com/user-attachments/assets/11a5d3e7-81c8-4f96-bd3e-710696518d83" />
+<img width="521" height="407" alt="Captura de pantalla 2026-03-06 210842" src="https://github.com/user-attachments/assets/4947e95f-1df8-46e2-b9b3-9adb486d3cf8" />
 
+## Aplicaciones de la drónica
+
+1. Cine: para grabar planos generales.
+2. Vigilancia
+3. Entregas de paquetes 
