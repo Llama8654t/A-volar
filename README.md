@@ -38,7 +38,7 @@ Para poder volar un dron debes:
 + Sin grabar imágenes sin permiso de las personas filmadas
 
 Luego no puedes volar el dron donde quieras debes hacer caso a estas normas:
-+ Lejos de zonas urbanas
++ Lejos de zonas urbanas<sup>*</sup>
 + Fuera de reuniones en exteriores, playas o campos de fútbol
 + Fuera del espacio aéreo controlado
 + A más de 8 kilómetros de cualquier aeropuerto o aeródromo
@@ -48,5 +48,19 @@ Luego no puedes volar el dron donde quieras debes hacer caso a estas normas:
 + Hasta a 120 metros de altura sobre el terreno
 + Puedes volar en clubes de vuelo o en zonas no controladas
 
+<sub>*Puedes volar en zonas urbanas pero debes de hacer caso al estas normas:
++ El peso máximo al despegue del dron no debe sobrepasar los 10 kg (con la nueva normativa no debe superar los 250 gramos)
++ La operación se debe de realizar dentro del alcance visual del piloto (VLOS).
++ La zona para volar deberá de estar acordonada por la autoridad competente, o en su defecto, debemos mantener una distancia horizontal mínima de 50 metros con edificios u otro tipo de estructuras y mantener una distancia de 50 metros con las personas del entorno.
++ El equipo deberá de tener instalado un sistema de limitación de energía del impacto, tipo paracaídas, airbag, etc.
++ Contar con la autorización por parte de AESA a través de la realización de un estudio de seguridad aeronáutica.
+</sub>
+
 ### Reglas segun el peso
-* Drones de menos de 250 gramos pueden ser pilotados en la mayoría de las ocasiones siempre que no sobrevueles eventos o personas ni molestes a nadie
+* Drones de menos de 250 gramos pueden ser pilotados en la mayoría de las ocasiones siempre que no sobrevueles eventos o personas ni molestes a nadie.
+* Drones de entre 250 gramos y 25 kilos No necesitan matriculación ni certificado pero deben de seguir ciertas normas y tener permisos específicos si quieres usarlos en eventos.
+* Drones de más de 25 kilos necesitan el certifcado de AESA para ser pilotados.
+Además de todo esto necesitas ciertos permisos y certificados para usarlos de forma profesional, pero...
+
+### ¿Como afecta la nueva normativa europea?
+
