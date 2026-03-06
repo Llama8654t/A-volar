@@ -82,4 +82,20 @@ Para conectarse al dron lo que debes de hacer es conectarse a una wifi llamada t
 
 ## Manual básico de programación con **_Droneblocks_**<sub>B2E</sub>
 
-Programar con **_Droneblocks_**<sub>B2E</sub> es muy parecido a otros softwares de programación con bloques
+Programar con **_Droneblocks_**<sub>B2E</sub> es muy parecido a otros softwares de programación con bloques como _Scratch_ o _Crumble_ para empezar deberías usar el bloque de despeje que va a hacer que tu dron despegue desde ahí puedes usar otros bloques como avanzar cierto número de pulgadas o centimetros, girar la cantidad elegida de grados en la dirección que tu quieras o usar bloques conocidos como un bucle, una espera o una condicional sin olvidarse de programar que aterrize con el bloque de aterrizaje
+
+Un bloque de despegue
+<img width="153" height="64" alt="Captura de pantalla 2026-03-06 210229" src="https://github.com/user-attachments/assets/91fe5e6e-f78d-4a0d-badf-ace0a7088b31" />
+
+Un bloque de volar hacia delante 20 pulgadas
+<img width="345" height="71" alt="Captura de pantalla 2026-03-06 210249" src="https://github.com/user-attachments/assets/0ffdbfa7-9cde-4781-8667-5d332d7ab7e5" />
+
+Un bloque de girar 90 grados a la izquierda
+<img width="381" height="77" alt="Captura de pantalla 2026-03-06 210257" src="https://github.com/user-attachments/assets/ed1974f8-1a04-4355-bcbc-46d538905499" />
+
+Un bloque de aterrizaje
+<img width="96" height="53" alt="Captura de pantalla 2026-03-06 210616" src="https://github.com/user-attachments/assets/66bf2847-591c-4fe5-a49b-986bf68106fa" />
+
+Programa completo con bucle
+<img width="525" height="408" alt="Captura de pantalla 2026-03-06 210727" src="https://github.com/user-attachments/assets/11a5d3e7-81c8-4f96-bd3e-710696518d83" />
+
