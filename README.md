@@ -65,4 +65,16 @@ Además de todo esto necesitas ciertos permisos y certificados para usarlos de f
 
 ### ¿Como afecta la nueva normativa europea?
 La nueva normativa europe requiere las exigencias de AESA que consisten en tener un seguro de responsabilidad civil, tener las competencias mínimas y respetar las zonas de vuelo que puedes ver en el mapa de ENAIRE [aquí](https://drones.enaire.es/?authuser=1).
+Y una nueva clasificación que afecta a las personas sin licencia que no esten registradas en la red de AESA las características de esta clase son:
++ Masa máxima al despegue de menos de 250 gramos.
++ Velocidad máxima en un vuelo horizontal de 19 metros por segundo.
++ Altura sobre el terreno de un máximo 120 metros.
+
+Y deben de cumplir con estas normas:
++ No se puede volar en espacios naturales protegidos, Reservas de Biosfera o zonas de conservación de fauna.
++ No se puede volar a un radio de 8 Km de aeródromos, aeropuertos, espacios aéreos controlados ni edificios prohibidos.
++ Los que incluyen cámara han de respetar la Ley de Protección de datos y el derecho al honor e intimidad de las personas.
++ El dron debe estar siempre controlado por ti y a tu vista.
++ Lo volarás en condiciones meteorológicas aptas.
++ Por la noche, no debe superar los 50 metros de altura.
 
