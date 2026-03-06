@@ -14,13 +14,10 @@ El dron DJI tello cuenta con
   * Protectores para las hélices
   * Placa base
 
+y su conexión es a través de wifi.
+
 Un dron **_DJI TELLO_**<sub>B2B</sub>
 ![descarga](https://github.com/user-attachments/assets/93637f90-9a5b-49fe-b681-4f2db656d79e)
-
-### Conexión al dron
-
-Para conectarse al dron lo que debes de hacer es conectarse a una wifi llamada tello-XXXXXX como dice aquí abajo en el extracto de manual que he insertado sien las "X" la matrícula del dron.
-<img width="692" height="121" alt="Captura" src="https://github.com/user-attachments/assets/f1fef758-92b4-46ba-93a2-c36bc609da95" />
 
 ## Normativa europea de vuelo
 Para poder volar el dron es obiamente necesario saber la normativa europea de vuelo asi que he incluido las partes más importantes y hay algunas formas de separar las normas y reglas.
@@ -54,7 +51,7 @@ Luego no puedes volar el dron donde quieras debes hacer caso a estas normas:
 + La operación se debe de realizar dentro del alcance visual del piloto (VLOS).
 + La zona para volar deberá de estar acordonada por la autoridad competente, o en su defecto, debemos mantener una distancia horizontal mínima de 50 metros con edificios u otro tipo de estructuras y mantener una distancia de 50 metros con las personas del entorno.
 + El equipo deberá de tener instalado un sistema de limitación de energía del impacto, tipo paracaídas, airbag, etc.
-+ Contar con la autorización por parte de AESA a través de la realización de un estudio de seguridad aeronáutica.
++ Contar con la autorización por parte de AESA a través de la realización de un estudio de seguridad aeronáutica.*
 </sub>
 
 ### Reglas segun el peso
@@ -77,4 +74,9 @@ Y deben de cumplir con estas normas:
 + El dron debe estar siempre controlado por ti y a tu vista.
 + Lo volarás en condiciones meteorológicas aptas.
 + Por la noche, no debe superar los 50 metros de altura.
+
+## ¿Cómo te debes conectar al dron para poder controlarlo?
+
+Para conectarse al dron lo que debes de hacer es conectarse a una wifi llamada tello-XXXXXX como dice aquí abajo en el extracto de manual que he insertado siendo las "X" la matrícula del dron.
+<img width="692" height="121" alt="Captura" src="https://github.com/user-attachments/assets/f1fef758-92b4-46ba-93a2-c36bc609da95" />
 
