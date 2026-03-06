@@ -12,3 +12,14 @@ El dron DJI tello cuenta con hélices,
   * Puerto micro usb
   * Protectores para las hélices
   * Placa base
+
+Un dron **_DJI TELLO_**<sub>B2B</sub>
+![descarga](https://github.com/user-attachments/assets/93637f90-9a5b-49fe-b681-4f2db656d79e)
+
+### Conexión al dron
+
+Para conectarse al dron lo que debes de hacer es conectarse a una wifi llamada tello-XXXXXX como dice aquí abajo en el extracto de manual que he insertado sien las "X" la matrícula del dron.
+<img width="692" height="121" alt="Captura" src="https://github.com/user-attachments/assets/f1fef758-92b4-46ba-93a2-c36bc609da95" />
+
+## Normativa europea de vuelo
+Para poder volar el dron es obiamente necesario saber la normativa europea de vuelo asi que he incluido las partes más importantes
