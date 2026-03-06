@@ -80,3 +80,6 @@ Y deben de cumplir con estas normas:
 Para conectarse al dron lo que debes de hacer es conectarse a una wifi llamada tello-XXXXXX como dice aquí abajo en el extracto de manual que he insertado siendo las "X" la matrícula del dron.
 <img width="692" height="121" alt="Captura" src="https://github.com/user-attachments/assets/f1fef758-92b4-46ba-93a2-c36bc609da95" />
 
+## Manual básico de programación con **_Droneblocks_**<sub>B2E</sub>
+
+Programar con **_Droneblocks_**<sub>B2E</sub> es muy parecido a otros softwares de programación con bloques
