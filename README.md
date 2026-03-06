@@ -2,8 +2,9 @@
 ## Objetivos del projecto
 En este projecto nuestro objetivo es programar un dron **_DJI TELLO_**<sub>B2B</sub> para que vuele alrededor de unas columnas en nuestro instituto, Para programar este dron vamos a usar la aplicación **_Droneblocks_**<sub>B2E</sub>, que es una aplicación de programación para drones que usa bloques para programar de forma simple.
 ## Dron **_DJI TELLO_**<sub>B2B</sub>
-El dron DJI tello cuenta con hélices, 
-  * Motore
+El dron DJI tello cuenta con 
+  * Hélices 
+  * Motores
   * Indicadores de estado de la aeronave
   * Botón de encendido
   * Antenas
@@ -63,4 +64,5 @@ Luego no puedes volar el dron donde quieras debes hacer caso a estas normas:
 Además de todo esto necesitas ciertos permisos y certificados para usarlos de forma profesional, pero...
 
 ### ¿Como afecta la nueva normativa europea?
+La nueva normativa europe requiere las exigencias de AESA que consisten en tener un seguro de responsabilidad civil, tener las competencias mínimas y respetar las zonas de vuelo que puedes ver en el mapa de ENAIRE [aquí](https://drones.enaire.es/?authuser=1).
 
