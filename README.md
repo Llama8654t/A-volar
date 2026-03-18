@@ -103,4 +103,10 @@ Programa completo con bucle
 
 1. Cine: para grabar planos generales.
 2. Vigilancia
-3. Entregas de paquetes 
+3. Entregas de paquetes
+ 
+## Descripción del proyecto
+
+En esta sección voy a explicar como ocurrio el proyecto las complicaciones que hubo el código que usamos entre otras cosas.
+
+
