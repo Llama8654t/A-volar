@@ -107,6 +107,7 @@ Programa completo con bucle
  
 ## Descripción del proyecto
 
-En esta sección voy a explicar como ocurrio el proyecto las complicaciones que hubo el código que usamos entre otras cosas.
+Como éramos 4 grupos pero solo dos drones funcionaban, tuvimos que compartirlos por dron entre dos grupos a pesar de esto por alguna razón cuando intentabamos probar nuestro programa el dron terminaba el programa sin moverse del sitio pero, de todos modos aquí abajo hay una imagen de como podría ser el programa.
 
+<img width="281" height="749" alt="image" src="https://github.com/user-attachments/assets/d1db6e02-b452-40a6-a38f-e93637abd6c3" />
 
